@@ -179,9 +179,7 @@ The model achieved a good balance between Precision and Recall while maintaining
 
 # Author
 
-**Sofia Rubini**
-Bachelor's Degree in Philosophy and Artificial Intelligence  
-Sapienza University of Rome  
+**Sofia Rubini** 
 
 Bachelor's Degree in Philosophy and Artificial Intelligence
 
